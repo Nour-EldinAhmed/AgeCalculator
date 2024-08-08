@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="birthdate_should_not_be_larger_than_today_s_date">Birthdate should not be Larger than today\'s Date.</string>
+</resources>

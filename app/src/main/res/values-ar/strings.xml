@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">حساب العمر</string>
+    <string name="birthdate_should_not_be_larger_than_today_s_date">لا يمكن ان يكون تاريخ ميلادك اكبر من التاريخ الحالي </string>
+
+</resources>
